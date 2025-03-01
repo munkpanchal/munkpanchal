@@ -1,5 +1,5 @@
 <h2 align="left">👋 Hello I'm Mayank Panchal</h2>
-<h3 align="left">💻 Full-Stack Developer | React.js & Node.js Specialist </h3>
+<h3 align="left">💻 Full-Stack Developer | React.js & Node.js </h3>
 
 
 
